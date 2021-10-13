@@ -21,3 +21,12 @@ Second, build the convolutional neural network using transfer learning from a pr
 
 
 Finally, compare the performance between two models and state which one is better and why.
+
+
+Dataset: Shakespeare dataset .
+
+The goal of this problem is to understand the use of deep learning in natural language processing. You need to train the RNN, the LSTM model, the GRU model and the bidirectional model. Try to stack multiple models (Deep learning) to see if that will improve the performance.
+
+ 
+
+Once you have finished building the models, compare the results and write up what you have discovered.
